@@ -75,10 +75,10 @@ npm run build
 Ahora se debe inicializar el navegador chromium de su elección y en la barra de extensiones se debe de seleccionar la opcion "Manage Extensions".  
 ![alt text](assets/image.png)
 
-Esto nos llevara a una nueva ventana donde podemos elegir cargar una extensión desempaquetada.  
+Esto nos llevará a una nueva ventana donde podemos elegir cargar una extensión desempaquetada.  
 ![alt text](assets/image-1.png)
 
-En el explorador de archivos se debe de seleccionar el folder build/ que se creo con el comando "npm run build"
+En el explorador de archivos se debe de seleccionar el folder build/ que se creó con el comando "npm run build"
 ![alt text](assets/image-2.png)
 
 Posteriormente, se puede observar en la ventana del navegador que la extensión ya se encuentra disponible para utilizarse.
