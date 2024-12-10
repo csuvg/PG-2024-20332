@@ -41,7 +41,7 @@ Descomprimirlo en el directorio PG-2024-20332/Guardian\ Virtual/src/backend/mode
 ### Variables de entorno
 Para configurar las variables de entorno se debe ingresar al directorio backend
 ```
-cd backend
+cd PG-2024-20332/Guardian\ Virtual/src/backend/
 ```
 En el cual se debe crear un archivo ".env", en donde se contengan las siguientes variables:
 
