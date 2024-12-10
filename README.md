@@ -67,7 +67,7 @@ cd PG-2024-20332/Guardian\ Virtual/src/backend/
 #### Frontend
 Para la extensión primero se debe crear el directorio necesario para poder ejecutar la extensión en el navegador:
 ```
-cd PG-2024-20332/Guardian\ Virtual/src/backend/frontend\ -\ extension/
+cd PG-2024-20332/Guardian\ Virtual/src/frontend\ -\ extension/
 npm install
 npm run build
 ```
