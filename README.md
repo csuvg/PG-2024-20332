@@ -85,7 +85,7 @@ Posteriormente, se puede observar en la ventana del navegador que la extensión 
 ![alt text](assets/image-4.png)
 
 ## Demo
-[Demostración visual del proyecto en acción](./Guardian%20Virtual/demo/Demo.mp4)
+[Demostración visual del proyecto en acción](./Guardian%20Virtual/demo/demo.mp4)
 
 ## Informe Final
 
