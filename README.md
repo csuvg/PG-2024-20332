@@ -60,14 +60,14 @@ Las cuales pueden ser obtenidas en los siguientes enlaces:
 
 #### Backend
 ```
-cd PG-2024-20332/Guardian\ Virtual/backend/
+cd PG-2024-20332/Guardian\ Virtual/src/backend/
 ./init_setup.sh
 ```
 
 #### Frontend
 Para la extensión primero se debe crear el directorio necesario para poder ejecutar la extensión en el navegador:
 ```
-cd PG-2024-20332/Guardian\ Virtual/backend/frontend\ -\ extension/
+cd PG-2024-20332/Guardian\ Virtual/src/backend/frontend\ -\ extension/
 npm install
 npm run build
 ```
